@@ -34,4 +34,4 @@ def get_color_name(R, G, B, color_data):
     return closest_color
 
 # Upload image
-uploaded_file =_colors.csv
+uploaded_file =_colordetector
