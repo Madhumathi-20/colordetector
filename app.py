@@ -34,5 +34,5 @@ def get_color_name(R, G, B, color_data):
     return closest_color
 
 # Upload image
-uploaded_file = st.file_uploader("beautiful_yellow_roses_flowers_green_leaves_blur_background_hd_yellow-HD.jpg", type=["jpg"])
+uploaded_file = st.file_uploader("Pictures", type=["jpg"])
 
